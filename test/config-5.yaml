@@ -1,0 +1,11 @@
+configurations:
+  1:
+    mode: dir
+    path:
+      - test_files
+  2:
+    mode: files
+    path:
+      - test_files\file1
+      - test_files\file2
+      - test_files\file3

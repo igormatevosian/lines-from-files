@@ -1,0 +1,27 @@
+{
+    "configFile": "C:\\Users\\Igor\\Documents\\GitHub\\repo\\config-manager\\test\\config-5.yaml",
+    "configurationID": 1,
+    "configurationData": {
+        "mode": "dir",
+        "path": [
+            "test_files"
+        ]
+    },
+    "out": {
+        "0": {
+            "0": "string1 taken from file1",
+            "1": "string1 taken from file2",
+            "2": "string1 taken from file3"
+        },
+        "1": {
+            "0": "string2 taken from file1",
+            "1": "string2 taken from file2",
+            "2": "string2 taken from file3"
+        },
+        "2": {
+            "0": "string3 taken from file1",
+            "1": "",
+            "2": "string3 taken from file3"
+        }
+    }
+}
